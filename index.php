@@ -33,7 +33,7 @@ else{
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Laundry-Login</title>
+    <title>Laundry System - Login</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
