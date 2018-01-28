@@ -1,0 +1,38 @@
+	
+	.bg-1{
+	margin-top:0%;
+	position:relative;
+	overflow:hidden;
+	}
+	.panel, .panel-heading{
+	border-radius:0px;
+	}
+	.panel-heading{
+	font-size:24px;
+	font-weight:900;
+	
+	}
+	.form-control{
+	height:50px;
+	border-radius:0px;
+	
+	}
+	
+	
+	}
+	.btn{
+	width:50px;
+	height:50px;
+	border-radius:0px;
+	
+	}
+	
+	.bo-btn{
+	width:50px;
+	height:50px;
+	border-radius:0px;
+	
+	}
+	.navbar{
+		color:#fff;
+	}
